@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stamp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Table
+    uniqueID: 379473345
+    locked: 0
+  - name: 5
+    uniqueID: 1932392519
+    locked: 0
+  - name: 4
+    uniqueID: 3703805053
+    locked: 0
+  - name: 3
+    uniqueID: 1598580793
+    locked: 0
+  - name: 2
+    uniqueID: 571898021
+    locked: 0
+  - name: 1
+    uniqueID: 3689389553
+    locked: 0
+  - name: Stamp Big
+    uniqueID: 170284321
+    locked: 0
+  - name: Sky
+    uniqueID: 3211570663
+    locked: 0
+  - name: Hair Back
+    uniqueID: 3436304433
+    locked: 0
+  - name: Body
+    uniqueID: 3663955333
+    locked: 0
+  - name: Logo
+    uniqueID: 1235427913
+    locked: 0
+  - name: Body detail
+    uniqueID: 2187538241
+    locked: 0
+  - name: Head
+    uniqueID: 1938013497
+    locked: 0
+  - name: Facial Features
+    uniqueID: 3658715601
+    locked: 0
+  - name: Falling Document
+    uniqueID: 2737519429
+    locked: 0
+  - name: Border,Window
+    uniqueID: 228894897
+    locked: 0
+  - name: Window
+    uniqueID: 2552480449
+    locked: 0
+  - name: Woki Toki
+    uniqueID: 40314189
+    locked: 0
+  - name: Stamp Small
+    uniqueID: 794168555
+    locked: 0
+  - name: Bubble
+    uniqueID: 3141285713
+    locked: 0
+  - name: Text Bubble
+    uniqueID: 969699651
+    locked: 0
+  - name: 5s
+    uniqueID: 1254766433
+    locked: 0
+  - name: 4s
+    uniqueID: 40809573
+    locked: 0
+  - name: 3s
+    uniqueID: 531300291
+    locked: 0
+  - name: 2s
+    uniqueID: 1901102631
+    locked: 0
+  - name: 1s
+    uniqueID: 522760943
+    locked: 0
+  - name: Stamp Small Move
+    uniqueID: 3524250155
+    locked: 0
+  - name: Baskets
+    uniqueID: 3436890319
+    locked: 0
+  - name: Window Small
+    uniqueID: 3055366293
+    locked: 0
+  - name: Shadow
+    uniqueID: 630484481
+    locked: 0
+  - name: Guy
+    uniqueID: 4173328527
+    locked: 0
+  - name: Afan
+    uniqueID: 4290484089
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
